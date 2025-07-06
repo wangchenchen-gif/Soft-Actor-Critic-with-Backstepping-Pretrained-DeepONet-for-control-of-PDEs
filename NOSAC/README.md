@@ -17,3 +17,4 @@ Our demonstration code is based on Python 3.11 and utilizes several key third-pa
 * "Hyperbolic_DeepONet" and "reactionDiffusion_DeepONet": Used for dataset generation and training the DeepONet model.  
 * "Hyperbolic_training" and "reactionDiffusion_training": Used for reinforcement learning training, including SAC (Soft Actor-Critic), NOSAC , and NOSAC_training.
 * "Hyperbolic_test" and "reactionDiffusion_test": Used to store all images generated during the program execution.
+* "pde_control_gym": It includes rewards and environments.
